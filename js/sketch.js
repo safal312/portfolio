@@ -9,6 +9,6 @@ function windowResized() {
 
 // drawing only at specific frames, giving a very organic texture in bg
 function draw() {
-  stroke(255);
-  if (frameCount % 30 == 0) line(pmouseX, pmouseY, mouseX, mouseY);
+  stroke(100);
+  line(pmouseX, pmouseY, mouseX, mouseY);
 }
