@@ -1,1 +1,4 @@
-# portfolio
+# Portfolio
+This is my personal portfolio website, hosting my projects. I went for a minimal style. I felt like that approach is more fitting, considering the style that I usually go for. The website uses only two colors. All the links have underlines below them. The whole feel while navigating is smooth and simple. The website also has an interactive background which visualizes the trail that a visitor's mouse leaves behind when they explore the website. I feel it contrasts quite well with the simple content in the foreground.
+
+The voice of the website is revolved around the word 'I'. It's as if I'm introducing myself to someone new. So, in some ways, the tone of the website is not so serious.

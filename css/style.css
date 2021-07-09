@@ -233,6 +233,11 @@ a:hover {
         line-height: 1.2em;
     }
 
+    .post a {
+        display: inline-block;
+        padding: 0.2em 0;
+    }
+
     .icons a img {
         width: 12pt;
     }
