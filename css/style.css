@@ -95,12 +95,20 @@ a:hover {
 
 
 /* bio page effects */
+.bio-page{
+    font-size: 24pt;
+}
+
 .info {
     padding: 3em 0;
-    height: 100vh;
+    height: 60vh;
     color: var(--white);
     overflow: hidden;
     font-size: 0.8em;
+}
+
+.strikethrough {
+    text-decoration: line-through;
 }
 
 .sentences {
@@ -131,6 +139,19 @@ a:hover {
 .info:nth-child(3) p:nth-child(8){
     opacity: 15%;
 }
+
+.tech {
+    margin-top: 0.5em;
+}
+
+.tech span{
+    font-size: 0.8em;
+    margin-right: 0.5em;
+    padding: 0.2em 0.5em;
+    background:rgba(255, 255, 255, 0.2);
+    border-radius: 1em;
+}
+
 /* ends here */
 
 
